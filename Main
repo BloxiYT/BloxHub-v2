@@ -1,1 +1,1 @@
-game:GetSerivce("Players").LocalPlayer:Kick("Script is not updated, join discord.gg/Z8t5rtMWj3 for updated version")
+game:GetService("Players").LocalPlayer:Kick("Script is not updated, join discord.gg/Z8t5rtMWj3 for updated version")
